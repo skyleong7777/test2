@@ -1,0 +1,5 @@
+Denomination,GMU Denom,Model Name,Model Type,Manufacturer Name,Multi Denom,Hold Percentage,Var Hold Pct,Game Hold Percentage,Multi-Game,Progression Rate,Type Description,Stool,Game Type,Tokenized,ECash Enabled,Ticket Printer,Coin Acceptor,Coin Hopper,E Printer,Playable Tickets,CRC Tkt Ecash Disabled,X-Series,Cabinet,Manufacturer,EGM/Roulette,Progressive,Max bet,Roulette
+0.01,0.01,HELIX GEN8,UPRIGHT,ARISTOCRAT,N,5.75,N,94.25,N,0,Fortune King Deluxe,N,R,N,Y,Y,N,N,N,N,N,N,Helix Gen 8,Aristocrat,EGM P1 Prog,Fortune Tree (P1),600,N
+0.25,0.01,R8TS,MULTISTATION,ALFASTREET,N,2.7,N,97.3,N,0,Alfastreet Roulette,N,A,N,Y,Y,N,N,N,N,N,N,R8TS,Alfastreet,Roulette CMC Z3,Multiplayer,NA,Y
+0.01,0.01,AH1,UPRIGHT,BALLY,Y,7.49,N,92.51,N,0,Echo Fortunes,N,R,N,Y,Y,N,N,N,N,N,N,AH1,Bally,EGM P1 Prog,Jin Ji Bao Xi P1,880,N
+0.1,0.01,R1SL,MULTISTATION,ALFASTREET,N,2.7,N,97.3,N,0,Alfastreet Roulette,N,A,N,Y,Y,N,N,N,N,N,N,R1SL,Alfastreet,Roulette LG,Multiplayer,20000,Y
